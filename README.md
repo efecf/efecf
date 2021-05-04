@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hakkımdae</h1>
+  <h1>Hakkımda</h1>
   <p>Kod yazıyorum.</p>
   <br>
   <br>

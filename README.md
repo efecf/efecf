@@ -1,1 +1,3 @@
-# ben kod yaziom hawali oluom
+# kod yazıyorum
+
+![github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)

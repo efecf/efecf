@@ -21,6 +21,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virushasnobrain&layout=compact&theme=gruvbox&hide_border=true&layout=compact" width="%100" height="200px" alt="stats" />
   <br><br>
-    <h1>Presence</h1>
+    <h1>Discord Presence</h1>
  <img src="https://lanyard-profile-readme.vercel.app/api/487251264984449034" style="max-width:100%;">
 </div>

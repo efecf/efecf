@@ -2,6 +2,9 @@
   <h1>About Me</h1>
   <br>
    Hi, I’m Efe aka. virus and ı’m 15 years old ı student in Turkey. I design software and graphics with my own means. I've been working with software for about 2 years.
+  <h1>Technologies I Use</h1>
+   <br>
+  
   <h1>Github Stats</h1>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=virushasnobrain&show_icons=true&theme=gruvbox&hide_border=true" width="%100" height="150px">

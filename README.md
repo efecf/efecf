@@ -1,7 +1,7 @@
 <div align="center">
   <h1>About Me</h1>
   <br>
-   Hi, I’m 15 years old ı student and software and graphics designer in Turkey.
+   Hi, I’m 15 years old student software and graphics designer in Turkey.
   <h1>Technologies I Use</h1>
    <br>
   <p align="center">

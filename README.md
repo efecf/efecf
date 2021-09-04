@@ -1,7 +1,7 @@
 <div align="center">
   <h1>About Me</h1>
   <br>
-   Hi, I’m Efe aka. virus and ı’m 15 years old ı student in Turkey. I design software and graphics with my own means. I've been working with software for about 2 years.
+   Hi, I’m 15 years old ı student and software and graphics designer in Turkey.
   <h1>Technologies I Use</h1>
    <br>
   <p align="center">

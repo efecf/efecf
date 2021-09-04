@@ -5,6 +5,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=virushasnobrain&show_icons=true&theme=gruvbox&hide_border=true" width="%100" height="150px">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virushasnobrain&layout=compact&theme=gruvbox&hide_border=true&layout=compact" width="%100" height="150px" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virushasnobrain&layout=compact&theme=gruvbox&hide_border=true&layout=compact" width="%100" height="200px" alt="stats" />
   <br><br>
 </div>

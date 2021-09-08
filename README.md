@@ -18,6 +18,7 @@
    <a href="https://www.adobe.com" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/11_Illustrator_Adobe_Ai_logo_logos-512.png" alt="Illustrator" width="40" height="40" /> </a>
    <a href="https://www.adobe.com" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/16_Aftereffects_After_Effects_Adobe_logo_logos-512.png" alt="aftereffects" width="40" height="40" /> </a>
    <a href="https://www.adobe.com" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/8_Premier_Pro_Adobe_logo_logos-512.png" alt="premierpro" width="40" height="40" /> </a>
+     <a href="https://www.blender.org" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Blender.png" alt="blender" width="40" height="40" /> </a>
 
 </p>
   <h1>Github Stats</h1>

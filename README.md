@@ -13,10 +13,9 @@
 <a> <img src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" widt="70" height="30" /> </a>
 <a> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" widt="70" height="30" /> </a>
 <a> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" widt="70" height="30" /> </a>
-<a> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" widt="70" height="30" /> </a>
+<a> <img src="https://img.shields.io/static/v1?style=flat-square&message=Git&color=F05032&logo=Git&logoColor=FFF&label=" widt="70" height="30" /> </a>
 <a> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" widt="70" height="30" /> </a>
 
-<a> <img src="https://img.shields.io/static/v1?style=flat-square&message=Git&color=F05032&logo=Git&logoColor=FFF&label=" widt="70" height="30" /> </a>
 <a> <img src="https://img.shields.io/static/v1?style=flat-square&message=npm&color=CB3837&logo=npm&logoColor=FFF&label=" widt="70" height="30" /> </a>
 <a> <img src="https://img.shields.io/static/v1?style=flat-square&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFF&label=" widt="70" height="30" /> </a>
 <a> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" widt="70" height="30" /> </a>

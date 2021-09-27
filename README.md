@@ -1,6 +1,6 @@
 <div align="center">
   <h1>About Me <img src="./img/2.gif" width="50"></h1>
-   <p>Hi, I’m 15 years old student software and graphics designer in Turkey.</p>
+   <p>Hi, I’m Efe aka. virus and ı’m 15 y.o. student in Turkey. I design software and graphics with my own means. I've been working with software for about 2 years.</p>
   <h1>Technologies I Use <img src="./img/3.gif" width="50"></h1>
    <br>
   <p align="center">

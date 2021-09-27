@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Welcome to my profile <img src="./img/1.gif" width="50"></h1>
   <h1>About Me <img src="./img/2.gif" width="50"></h1>
    <p>Hi, I’m 15 years old student software and graphics designer in Turkey.</p>
   <h1>Technologies I Use <img src="./img/3.gif" width="50"></h1>

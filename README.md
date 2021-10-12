@@ -1,4 +1,4 @@
-## Welcome to my world <img src="https://github.com/efewtf/efewtf/blob/main/img/2.gif" width="24px">
+## Welcome to my world <img src="https://github.com/efewtf/efewtf/blob/main/img/2.gif" width="45px">
 
 ### Hello! I'm Efe a front-end web and software developer, graphic designer and floppa fan from Turkey.
 
@@ -22,7 +22,7 @@
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![BOOTSTRAP](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
  
-
+<br></br>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efewtf&layout=compact&theme=gruvbox&hide_border=true&layout=compac"  width="1000" height="220px" alt="Github Stats">
 </p>

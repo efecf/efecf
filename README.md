@@ -1,4 +1,4 @@
-## Welcome to my world <img src="https://github.com/efewtf/efewtf/blob/main/img/2.gif" width="45px">
+## Welcome to my profile <img src="https://github.com/efewtf/efewtf/blob/main/img/2.gif" width="45px">
 
 ### Hello! I'm Efe a front-end web and software developer, graphic designer and floppa fan from Turkey.
 

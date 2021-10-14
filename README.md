@@ -4,7 +4,7 @@
 
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/840652842397073418/898291932084723752/banner.gif" />
   
 ### 👨‍💻 Languages and Tools
 

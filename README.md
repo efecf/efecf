@@ -1,6 +1,6 @@
 ## Welcome to my profile <img src="https://github.com/efewtf/efewtf/blob/main/img/2.gif" width="45px">
 
-### Hello! I'm Efe a front-end web and software developer, graphic designer from Turkey.
+### Hello! I'm Efe a front-end web, software developer and graphic designer from Turkey.
 
 <br />
 
